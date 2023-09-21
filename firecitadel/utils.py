@@ -100,7 +100,7 @@ NEGATIVE_PROMPT = "painting, extra fingers, mutated hands, poorly drawn hands, p
   
 MODELS = SimpleNamespace(
         MIDJOURNEY = "midjourney",
-        STABLE_DIFFUSSION = "sdxl",
+        STABLE_DIFFUSION = "sdxl",
         DREAM_SHAPER = "dream-shaper-8797",
 )
 

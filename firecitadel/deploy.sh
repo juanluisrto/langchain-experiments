@@ -1,8 +1,9 @@
-gcloud beta functions deploy NAME_OF_SERVICE \
+gcloud beta functions deploy firecitadel-service \
     --gen2 \
     --runtime python39 \
     --trigger-http \
     --entry-point dream_story \
     --source . \
     --region us-central1 \
-    --timeout=300 
+    --timeout=300 \
+    --allow-unauthenticated

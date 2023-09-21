@@ -49,7 +49,7 @@ def dream_story(request):
     
     
     # Generate image
-    image_urls = text_to_image(story, model = MODELS.DREAM_SHAPER, negative_prompt=NEGATIVE_PROMPT)
+    image_urls = text_to_image(story, model = MODELS.STABLE_DIFFUSION, negative_prompt=NEGATIVE_PROMPT)
     url = image_urls[0]
     
     logging.info(f"Generated image: {url}")
