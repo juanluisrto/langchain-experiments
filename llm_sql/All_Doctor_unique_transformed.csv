@@ -1,0 +1,50 @@
+,profile_id,name,state,city,amount_invested,Hematology & Oncology,Orthodontics and Dentofacial Orthopedics,Anatomic Pathology & Clinical Pathology,Orthopaedic Surgery of the Spine,Pathology,Pediatric Urology,Urology,Anesthesiology,Dental Providers,Allopathic & Osteopathic Physicians,Dentist,Specialist,Other Service Providers,Diagnostic Radiology,Cardiovascular Disease,Medical Oncology,Orthopaedic Surgery,Radiation Oncology,Internal Medicine,Pediatrics,Pediatric Dentistry,Radiology
+0,334471,Jay Dilip Raman,Pennsylvania,Hershey,170.19,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,142554,,Pennsylvania,MONONGAHELA,18.72,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,316396,Timothy George Schuster,Ohio,Toledo,170.19,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,222799,,Pennsylvania,Greensburg,170.19,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,144260,Gerald Alan Ravitz,Pennsylvania,Pottsville,170.19,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,186398,Sarat C Sabharwal,Florida,Winter Park,170.19,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,350854,BRUCE I KILSTEIN,Rhode Island,WEST WARWICK,70.54,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+7,218157,EMMETT T BOYLE,Ohio,TOLEDO,170.19,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+8,305219,ASHWIN H SHAH,Michigan,MONROE,426.04,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+9,158382,,Ohio,DAYTON,483.87,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,68139,HOWARD B ABROMOWITZ,Ohio,DAYTON,483.87,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,284936,JAMES EDGAR ALLEN,Pennsylvania,CLAIRTON,483.87,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,247958,SETH ADAM ALPERT,Ohio,COLUMBUS,75.72,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+13,160862,VICTOR F ALTADONNA,Pennsylvania,LANCASTER,200.56,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+14,136496,,Ohio,CELINA,986.6,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,244625,,Georgia,Atlanta,49393.5,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True
+16,254520,Carlos E Vargas Moncaleano,Florida,Jacksonville,51028.33,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True
+17,184563,Kenneth Richard Olivier,Minnesota,Rochester,50153.4,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True
+18,101877,,New York,West Harrison,525.0,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+19,283024,Bruce K Stechmiller,Florida,Orlando,24696.75,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+20,309017,Robert A Zlotecki,Florida,Orlando,24696.75,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True
+21,314543,AARON MICHAEL MANNELLA,New Jersey,RANDOLPH,34461.0,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False
+22,118106,,New Jersey,RANDOLPH,34461.0,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+23,255902,PETER A BRENNER,South Carolina,GREENVILLE,12762.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+24,285543,JEANNE BARI ACKMAN,Massachusetts,BOSTON,15360589.75,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True
+25,346411,,Florida,SUNNY ISLES BEACH,17235.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+26,181703,,Dist. Of Columbia,WASHINGTON,17235.0,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+27,302091,JORY G MAGIDSON,New Jersey,MORRISTOWN,9196.59,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+28,84297,,New York,NEW YORK,249992.81,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True
+29,307402,,New Jersey,FORT LEE,51696.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False,False
+30,222514,,New York,NEW YORK,23.24,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False,False
+31,196664,,Florida,ST PETERSBURG,49998.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+32,168463,ANDRES WILFREDO BHATIA,Florida,GAINESVILLE,49998.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+33,164377,,Florida,TAMPA,45000.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False
+34,166108,MARIA C. MALLARINO,Florida,SARASOTA,99999.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False
+35,253753,RICHARD H. BUCK,Florida,SARASOTA,30000.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+36,51154,LAWRENCE D PIRO,California,SANTA MONICA,20000.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+37,233531,MELANI P SHAUM,California,SANTA MONICA,20000.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+38,15772,DANIEL J LIEBER,California,SANTA MONICA,20000.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+39,63767,PETER D BOASBERG,California,SANTA MONICA,20000.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+40,337121,HOWARD A ADLER,Florida,DELRAY BEACH,22726.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+41,282858,,Florida,DELRAY BEACH,22740.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+42,308507,,Florida,DELRAY BEACH,22726.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+43,226809,WARREN STEVEN BRENNER,Florida,DELRAY BEACH,22726.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+44,324268,TERESA MARIA GAGLIANO-DECESARE,Florida,DELRAY BEACH,22726.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+45,95046,,Florida,DELRAY BEACH,22726.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+46,274499,ROSS SAMUEL OLIVER,West Virginia,CHARLESTON,200.56,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+47,207223,EMMETT E ONEAL,Ohio,CINCINNATI,72.58,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+48,311762,LINDA S OSBORNE,Ohio,COLUMBUS,544.35,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
